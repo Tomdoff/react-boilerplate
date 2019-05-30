@@ -7,7 +7,8 @@ module.exports = {
         extensions: ['.jsx', '.js'],
         alias: {
             Components: path.resolve(__dirname, 'src/components'),
-            Config: path.resolve(__dirname, 'src/config')
+            Config: path.resolve(__dirname, 'src/config'),
+            Constants: path.resolve(__dirname, 'src/constants')
         }
 
     },
