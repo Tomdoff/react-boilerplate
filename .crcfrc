@@ -1,5 +1,6 @@
 [
     "scss", 
     "stories",
-    "jsx"
+    "jsx",
+    "proptypes"
 ]
