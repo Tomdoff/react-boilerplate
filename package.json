@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "dotenv-webpack": "^1.7.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.7.0",
     "react-adal": "^0.4.23",
     "react-dom": "^16.7.0",
